@@ -238,8 +238,7 @@ a {
   overflow: hidden;
   background: #F5EFE6;
   border-radius: 5px;
-  margin-bottom: 30px;
-  margin-top: 30px;
+
 }
 
 .shadow-large {
@@ -287,14 +286,6 @@ a {
 .btn-view-code a {
   text-decoration: none;
   color: white;
-}
-
-.malloc-project-info {
-  display: inline-block;
-}
-
-.tetris {
-  height: 265px;
 }
 
 .timeline {
